@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/LOZ_Sword_Slash.wav-0433597d7908f823ea8dc6c829731ffe.sample"
+
+[deps]
+
+source_file="res://Resources/LOZ_Sword_Slash.wav"
+dest_files=[ "res://.import/LOZ_Sword_Slash.wav-0433597d7908f823ea8dc6c829731ffe.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
