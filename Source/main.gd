@@ -77,6 +77,11 @@ func gameOver():
 		highScore = score;
 		$HUD.setHighScore(highScore);
 	
+	for i in mobList:
+		mobList[i] = false;
+	
+	score = 0;
+	
 	$HUD.gameOver();
 	$Player.visible = false;
 
